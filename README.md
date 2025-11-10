@@ -21,6 +21,6 @@ My team analyzed **regional price movements**, **demographic preferences**, **pr
 - Canva: infographic design
 
 ## 📄Deliverables  
-- [Poster](deliverables/property_demographics_malaysia.pdf)
+- [Poster (insights)](deliverables/property_demographics_malaysia.pdf)
 - [Python scripts](notebooks/house_market_EDA.ipynb)
 
