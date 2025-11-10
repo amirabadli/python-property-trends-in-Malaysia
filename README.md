@@ -1,6 +1,6 @@
 # 🏘️Regional & Demographic Trends in Malaysia’s Housing Market (2021–2024)
 
-This is part of a community project organized by *[Wanita Data](https://www.linkedin.com/posts/wanitadata_it-is-tonight-at-8-pm-7-teams-40-people-activity-7370376499243180032-ZTUF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS-q9MBB4wzFiHkUq3nQUZ8gSQ0cdoIt9A)*.
+Selected for the second cohort of the *[Wanita Data](https://www.linkedin.com/posts/wanitadata_it-is-tonight-at-8-pm-7-teams-40-people-activity-7370376499243180032-ZTUF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS-q9MBB4wzFiHkUq3nQUZ8gSQ0cdoIt9A)* Community Project — an 8-week team-based program focused on gaining hands-on experience with real-world datasets. Chose Python as the primary tool for analysis among the available technical options.
 
 My team analyzed regional price movements, demographic preferences, property types, demand vs affordability, and time trends. The findings were summarized into an infographic for public communication.
 
